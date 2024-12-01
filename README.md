@@ -3,13 +3,10 @@
 
 - 🔭 I’m currently working on **javascript project**
 
-- 🌱 I’m currently learning at **TripleTen**
-
 - 🤝 I’m looking for help with **developing my skills in coding**
 
 - 📫 How to reach me **ori3119@gmail.com**
 
-- ⚡ Fun fact **I love writing not only code but also novels**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
